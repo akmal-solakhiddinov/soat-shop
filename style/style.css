@@ -425,13 +425,13 @@ section{
         margin: 3rem 0;
     }
 
-    .contact-container .contact-container-box input, textarea{
+    .contact-container .contact-container-box  input, textarea{
         padding: .8rem 2rem;
         border: 1px solid var(--light-color);
         border-radius: 5px;
     }
 
-    .contact-container .contact-container-box input:hover, textarea:hover{
+    .contact-container .contact-container-box  input:hover, textarea:hover{
         padding: .9rem 2.1rem; 
         transition: .2s liner;
         box-shadow: var(--box-shadow);
